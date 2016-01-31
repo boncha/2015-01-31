@@ -72,3 +72,4 @@ The application of the script results in the generation of two new files:
 ./TidyDataSet.csv : product of tasks 1 through 4
 
 ./SummaryGroupedTidyDataset.csv : product of task 5.
+# 2015-01-31
